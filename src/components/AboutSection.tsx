@@ -86,7 +86,7 @@ export default function AboutSection() {
               <div className="flex gap-6 mt-6 pt-6 border-t border-[#ff2d55]/20">
                 <div className="flex items-center gap-2 text-gray-500 text-sm">
                   <MapPin size={14} className="text-[#ff00ff]" />
-                  <span className="tracking-wide">San Francisco, CA</span>
+                  <span className="tracking-wide">Pune, India</span>
                 </div>
                 <div className="flex items-center gap-2 text-gray-500 text-sm">
                   <Calendar size={14} className="text-[#ff00ff]" />
